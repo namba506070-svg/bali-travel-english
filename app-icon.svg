@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="バリ旅英会話">
+  <rect width="512" height="512" rx="112" fill="#174a78"/>
+  <circle cx="256" cy="256" r="170" fill="#ffffff" opacity="0.1"/>
+  <path d="M105 306c54-54 116-62 174-24 40 26 82 24 128-8v83c-48 28-96 29-143 1-51-31-98-22-159 31z" fill="#86c8e8"/>
+  <text x="256" y="281" text-anchor="middle" fill="#ffffff" font-family="Georgia, serif" font-size="190" font-style="italic" font-weight="700">B</text>
+  <path d="M155 151h202" stroke="#ffffff" stroke-width="18" stroke-linecap="round" opacity="0.82"/>
+</svg>
